@@ -1,0 +1,20 @@
+{
+  "name": "proyectos",
+  "version": "1.0.0",
+  "description": "Esto es una web api de ejemplo ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "//github.com/RaulDiaz10/Proyecto-WebApi-.git"
+  },
+  "keywords": [
+    "Proyecto",
+    "Web",
+    "Api"
+  ],
+  "author": "Raúl Díaz <l23940402@tlajomulco.tecnm.mx>",
+  "license": "MIT"
+}
