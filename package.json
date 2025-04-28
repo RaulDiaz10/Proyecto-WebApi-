@@ -16,5 +16,9 @@
     "Api"
   ],
   "author": "Raúl Díaz <l23940402@tlajomulco.tecnm.mx>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
 }
